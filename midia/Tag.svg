@@ -13,9 +13,28 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="desenho.svg">
+   sodipodi:docname="Tag.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <rect
+       x="95.85249"
+       y="54.63781"
+       width="24.199445"
+       height="19.662049"
+       id="rect36" />
+    <rect
+       x="39.9375"
+       y="192.375"
+       width="45"
+       height="40.5"
+       id="rect53" />
+    <rect
+       x="39.9375"
+       y="192.375"
+       width="45"
+       height="40.5"
+       id="rect25" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -23,9 +42,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9859503"
-     inkscape:cx="394.0442"
-     inkscape:cy="182.97285"
+     inkscape:zoom="1.3994811"
+     inkscape:cx="398.00638"
+     inkscape:cy="295.50152"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
